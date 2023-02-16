@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 320,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 3588.1156249999985,
+    "medianResTime" : 232.0,
+    "minResTime" : 113.0,
+    "maxResTime" : 67833.0,
+    "pct1ResTime" : 19773.7,
+    "pct2ResTime" : 19964.7,
+    "pct3ResTime" : 36380.29,
+    "throughput" : 2.7215975777781556,
+    "receivedKBytesPerSec" : 2.6172619186837673,
+    "sentKBytesPerSec" : 1.084386534895984
+  },
+  "2359project" : {
+    "transaction" : "2359project",
+    "sampleCount" : 320,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 3588.1156249999985,
+    "medianResTime" : 232.0,
+    "minResTime" : 113.0,
+    "maxResTime" : 67833.0,
+    "pct1ResTime" : 19773.7,
+    "pct2ResTime" : 19964.7,
+    "pct3ResTime" : 36380.29,
+    "throughput" : 2.7215975777781556,
+    "receivedKBytesPerSec" : 2.6172619186837673,
+    "sentKBytesPerSec" : 1.084386534895984
+  }
+}
